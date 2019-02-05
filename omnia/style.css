@@ -1,0 +1,17 @@
+.background {
+  background-image: linear-gradient(#263238, #304047);
+}
+
+.logo {
+  background-image: url(logo.png);
+  background-size: 50% auto;
+}
+
+.progressBar {
+  background-color: #F2B43B;
+}
+
+.watermark {
+  background-image: url(watermark.png);
+  background-size: 64px 64px;
+}
